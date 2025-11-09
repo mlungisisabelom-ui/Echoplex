@@ -1,0 +1,1 @@
+This folder is now deprecated. File uploads are sent directly to AWS S3.
